@@ -38,7 +38,7 @@
   <tr>
     <td>🖥️</td>
     <td>
-      <strong><a href="(https://github.com/Nerd1029/The-Binary-Teller)">The Binary Teller</a></strong>  
+      <strong><a href="https://github.com/Nerd1029/The-Binary-Teller" target="_blank">The Binary Teller</a></strong>  
       — a simple program that can convert any number 1-255 to 8 bit binary!
       <br>
       <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square" alt="In progress badge"/>
