@@ -6,11 +6,11 @@
 
 <table align="center">
     <td>🔄</td>
-    <td><strong>Version control systems</strong></td>
+    <td><strong>Git</strong></td>
   </tr>
   <tr>
-    <td>⚙️</td>
-    <td><strong>Interpreters and compilers</strong></td>
+<td>⚙️</td>
+    <td><strong>Exe Development</strong></td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<h2 align="center"> ⚡ Fun fact: I don't like java. </h2>
+<h2 align="center"> ⚡ Fun fact: I don't like Java. </h2>
 
 <h2 align="center">🧩 Project I'm Working On</h2>
 
