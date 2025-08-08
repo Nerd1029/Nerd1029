@@ -26,10 +26,10 @@
 
 <h2 align="center"> ⚡ Fun fact: I don't like java. </h2>
 
-<h2 align="center">🧩 Projects I'm Working On</h2>
+<h2 align="center">🧩 Project I'm Working On</h2>
 
 <p align="center">
-   <strong>Feel free to post feedback on any of these projects</strong>
+   <strong>Feel free to post feedback on this project</strong>
 </p>
 
 <br>
