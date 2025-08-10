@@ -19,12 +19,14 @@
 <br>
 
 <p align="center" style="display:flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="background:#181717; border-radius:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="60" style="background:#181717; border-radius:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" alt="Perl" width="60" height="60"/>
 </p>
+<h2></h2>
 
-<h2 align="center"> ⚡ Fun fact: I don't like Java. </h2>
+<h2 align="center"> ⚡ Fun fact: I don't like Java! </h2>
 
 <h2 align="center">🧩 Project I'm Working On</h2>
 
